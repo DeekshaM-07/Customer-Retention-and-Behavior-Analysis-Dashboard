@@ -19,7 +19,7 @@ This project analyzes customer transaction data to understand **customer behavio
 
 * 📊 Power BI Desktop
 * 📐 DAX (Data Analysis Expressions)
-* 📁 Excel / CSV Dataset
+* 📁 Excel Dataset
 * 🗂 GitHub
 
 ---
